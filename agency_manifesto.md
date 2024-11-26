@@ -1,0 +1,1 @@
+C:\Users\zmsar\anaconda3\envs\genesis1_env\Prokon Analysis Agency\StructuralAnalysisAgency\agency_manifesto.md
